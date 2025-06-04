@@ -1,0 +1,18 @@
+body{
+    background: fixed;
+    background: linear-gradient(to right, white, blue);
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+div{
+    background-color: rgba(52, 185, 226, 0.637);
+    height: 650px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5%;
+}
