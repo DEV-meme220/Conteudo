@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to right, rgb(223, 223, 223), rgb(38, 157, 226));
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+div{
+    background-color: rgb(41, 210, 240);
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input{
+    padding: 4px;
+    border: 2px;
+    border-radius: 5px;
+}
