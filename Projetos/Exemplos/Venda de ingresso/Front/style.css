@@ -22,3 +22,11 @@ input{
     border: 2px;
     border-radius: 5px;
 }
+button{
+    background-color: white;
+    padding: 4px;
+    border: 2px;
+    border-radius: 5px;
+    height: 25px;
+    width: 175px;
+}
